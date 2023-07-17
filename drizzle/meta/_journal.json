@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689609591391,
+      "tag": "0000_perfect_jubilee",
+      "breakpoints": true
+    }
+  ]
+}
