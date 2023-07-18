@@ -6,8 +6,8 @@
   "scripts": {
     "generate": "drizzle-kit generate:pg",
     "local:build": "npx tsc",
-    "local:start": "node dist/index.js",
-    "local:dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
+    "local:start": "node index.js",
+    "local:dev": "concurrently \"npx tsc --watch\" \"nodemon -q index.js\""
   },
   "keywords": [],
   "author": "",
