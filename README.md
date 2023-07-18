@@ -8,4 +8,4 @@ Build with [Typescript](https://www.typescriptlang.org/), [Express](https://expr
 and deployed to Vercel
 
 ### demo
-(https://auth-backend-ts-syamilabdillah.vercel.app)[https://auth-backend-ts-syamilabdillah.vercel.app]
+[https://auth-backend-ts-syamilabdillah.vercel.app](https://auth-backend-ts-syamilabdillah.vercel.app)
