@@ -4,7 +4,7 @@
 | POST | /api/login |
 | GET | /api/me |
 
-Build with (Typescript)[https://www.typescriptlang.org/], (Express) [https://expressjs.com/], (Drizzle-orm) [https://orm.drizzle.team/docs/quick-start]
+Build with [Typescript](https://www.typescriptlang.org/), [Express](https://expressjs.com/), [Drizzle-orm] (https://orm.drizzle.team/docs/quick-start)
 and deployed to Vercel
 
 ### demo
